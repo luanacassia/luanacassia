@@ -1,6 +1,11 @@
-### Hi there 👋
+### OIE, BEM VINDO AO MEU PERFIL 👋
 
-<!--
+🐈‍⬛ 🐕‍
+![image](https://user-images.githubusercontent.com/132674929/236488263-a14ad902-ca9b-4301-9631-1306ff0ab60e.png)
+
+
+
+<!...
 **luanacassia/luanacassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
